@@ -1,0 +1,1 @@
+web: gunicorn per_pals.app:app
